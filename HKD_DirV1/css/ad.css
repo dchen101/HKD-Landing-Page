@@ -1,0 +1,27 @@
+.ad-box{
+  width: 190px;
+  height: 130px;
+  border-style: solid;
+  border-style: 1px;
+  border-width: 1px;
+  border-color: #E0E0E0;
+  margin-bottom: 20px;
+  overflow:hidden;
+}
+
+.pl-0{
+  padding-left: 0;
+}
+
+.footer-container{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer-image{
+    background:url("../images/footer.jpg") no-repeat center top !important;
+    opacity: 0.5;
+;
+}
